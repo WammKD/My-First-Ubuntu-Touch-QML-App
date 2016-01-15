@@ -1,0 +1,17 @@
+{
+    "name": "@APP_ID@",
+    "description": "description of My-First-Ubuntu-Touch-QML-App",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "My-First-Ubuntu-Touch-QML-App": {
+            "apparmor": "My-First-Ubuntu-Touch-QML-App.apparmor",
+            "desktop":  "My-First-Ubuntu-Touch-QML-App.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Jonathan Schmeling <Wamm_KD_Schmelingski@yahoo.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
